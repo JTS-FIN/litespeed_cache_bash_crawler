@@ -6,7 +6,7 @@
 # common this structure is elsewhere)
 
 if [[ $# -eq 0 ]] ; then
-    echo "run ls_crawl_everyhing https://example.com/sitemap_index.xml"
+    echo "run ls_crawl_everything.sh https://example.com/sitemap_index.xml"
     exit 0
 fi
 
